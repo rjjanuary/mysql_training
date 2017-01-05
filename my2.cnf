@@ -1,4 +1,4 @@
-[mysql]
+[mysqld]
 socket                         = /tmp/mysql.sock
 pid-file                       = /tmp/mysql.pid
 datadir                        = /tmp/mysql
